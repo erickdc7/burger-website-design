@@ -1,2 +1,4 @@
-# burger-website-design
-Responsive Burger Website Design Using HTML / CSS / SASS / JavaScript From Scratch
+# Responsive Burger Website Design
+### This design belongs to [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas), you can see its video [here](https://youtu.be/OLhqlxHFhWs).
+
+![preview img](/preview.png)
